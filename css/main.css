@@ -114,6 +114,7 @@ body {
     background: rgb(219, 219, 219);
     padding: 20px 30px;
     border-radius: 20px;
+    margin-bottom: 20px;
 }
 
 #calculator > p {
@@ -190,6 +191,43 @@ body {
 
 
 
+ /* CREDITS*/
+
+    #footer {
+        clear: both;
+        float: right;
+        margin:0 auto;
+    }
+
+    .credit {
+
+    }
+
+    .credit a {
+
+        text-decoration: none;
+        color: rgb(194, 140, 42);
+        
+    }
+        
+    .credit span {
+
+        font-size: 1.1em;
+        padding: 5px;
+        background: rgb(63, 60, 60);
+        border-radius: 7px;
+        margin-left: 4px;        
+    }
+
+   .credit a:visited {
+
+        color: rgb(230, 170, 237);
+    }
+
+     .credit a:hover {
+
+        color: rgb(253, 176, 8);
+    }
 
 
 
