@@ -3,6 +3,8 @@ JavaScript calculator for OdinProject Tutorial
 
 A JavaScript Calculator app - Task outline from Odin Project.com.
 
+Try it here: http://beesmart.github.io/JS_calculator
+
 > Changelog 
   ---------
 
